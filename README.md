@@ -1,4 +1,4 @@
-[monkey business](https://github.com/JWJ212/dotdeployer/blob/main/wallpapers/pain.png?raw=true)
+['monkey business'](https://github.com/JWJ212/dotdeployer/blob/main/wallpapers/pain.png?raw=true)
 
 <div align="center" id="badges">
 <a href="https://discord.gg/mTmahg8ZsA">
