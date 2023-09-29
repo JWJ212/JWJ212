@@ -1,6 +1,6 @@
-<div id="header" align="center">
+
 	['monkey business'](https://github.com/JWJ212/dotdeployer/blob/main/wallpapers/pain.png?raw=true)
-</div>
+
 <div align="center" id="badges">
 <a href="https://discord.gg/mTmahg8ZsA">
 	<img src="https://img.shields.io/badge/Discord-grey?style=flat-square&logo=discord&logoColor=white" />
