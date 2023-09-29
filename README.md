@@ -1,7 +1,6 @@
 !['monkey business'](https://github.com/JWJ212/dotdeployer/blob/main/wallpapers/pain.png?raw=true)
-
 <br>
-<h1 align="center">JWJ212</h1>
+<h1 align="center">JWJ212
 
 <div align="center" id="badges">
 <a href="https://discord.gg/mTmahg8ZsA">
@@ -11,6 +10,7 @@
 	<img src="https://img.shields.io/badge/Youtube-grey?style=flat-square&logo=youtube&logoColor=white" />
 </a>
 </div>
+</h1>
 </br>
 
 
