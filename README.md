@@ -1,6 +1,13 @@
 <br>
 <h1 align = "center"> JWJ212 </h1>
+<div id="badges">
+<a href="https://discord.gg/mTmahg8ZsA">
+	<img src="https://img.shields.io/badge/Discord-grey?style=flat-square&logo=discord&logoColor=white" />
+</a>
+</div>
 <br>
+
+
 
 I do not know how to program or use Linux.
 
