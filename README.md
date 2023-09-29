@@ -1,3 +1,1 @@
-<div id="header" align="center">
-	<img src="https://tenor.com/view/bondrewd-bondrewd-gangway-gangway-gif-23859507">
-</div>
+<div class="tenor-gif-embed" data-postid="23859507" data-share-method="host" data-aspect-ratio="1.01587" data-width="100%"><a href="https://tenor.com/view/bondrewd-bondrewd-gangway-gangway-gif-23859507">Bondrewd Bondrewd Gangway GIF</a>from <a href="https://tenor.com/search/bondrewd-gifs">Bondrewd GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
