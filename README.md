@@ -1,5 +1,9 @@
 !['monkey business'](https://github.com/JWJ212/dotdeployer/blob/main/wallpapers/pain.png?raw=true)
 
+<br>
+<h1 align="center">JWJ212</h1>
+</br>
+
 <div align="center" id="badges">
 <a href="https://discord.gg/mTmahg8ZsA">
 	<img src="https://img.shields.io/badge/Discord-grey?style=flat-square&logo=discord&logoColor=white" />
