@@ -12,9 +12,6 @@
 </div>
 </h1>
 </br>
-
-
-
 I do not know how to program or use Linux.
 
 I don't even know how I got here.
